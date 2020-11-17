@@ -1,0 +1,13 @@
+C:\Users\Matheus Neri\Desktop\Do-While-For\bin\Debug\netcoreapp3.1\Do-While-For.exe
+C:\Users\Matheus Neri\Desktop\Do-While-For\bin\Debug\netcoreapp3.1\Do-While-For.deps.json
+C:\Users\Matheus Neri\Desktop\Do-While-For\bin\Debug\netcoreapp3.1\Do-While-For.runtimeconfig.json
+C:\Users\Matheus Neri\Desktop\Do-While-For\bin\Debug\netcoreapp3.1\Do-While-For.runtimeconfig.dev.json
+C:\Users\Matheus Neri\Desktop\Do-While-For\bin\Debug\netcoreapp3.1\Do-While-For.dll
+C:\Users\Matheus Neri\Desktop\Do-While-For\bin\Debug\netcoreapp3.1\Do-While-For.pdb
+C:\Users\Matheus Neri\Desktop\Do-While-For\obj\Debug\netcoreapp3.1\Do-While-For.csprojAssemblyReference.cache
+C:\Users\Matheus Neri\Desktop\Do-While-For\obj\Debug\netcoreapp3.1\Do-While-For.AssemblyInfoInputs.cache
+C:\Users\Matheus Neri\Desktop\Do-While-For\obj\Debug\netcoreapp3.1\Do-While-For.AssemblyInfo.cs
+C:\Users\Matheus Neri\Desktop\Do-While-For\obj\Debug\netcoreapp3.1\Do-While-For.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Neri\Desktop\Do-While-For\obj\Debug\netcoreapp3.1\Do-While-For.dll
+C:\Users\Matheus Neri\Desktop\Do-While-For\obj\Debug\netcoreapp3.1\Do-While-For.pdb
+C:\Users\Matheus Neri\Desktop\Do-While-For\obj\Debug\netcoreapp3.1\Do-While-For.genruntimeconfig.cache
