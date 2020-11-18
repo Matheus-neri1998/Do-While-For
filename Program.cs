@@ -7,8 +7,9 @@ namespace Do_While_For
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Deseja qual número?");
+            Console.WriteLine("Deseja ver a tabuada de qual número?");
             int resposta = int.Parse(Console.ReadLine());
+            System.Threading.Thread.Sleep(1000);
 
            for(int r = 0; r <=10; r++)
             { 
