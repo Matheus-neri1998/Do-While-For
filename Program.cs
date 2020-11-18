@@ -7,24 +7,18 @@ namespace Do_While_For
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Deseja ver a tabuada de qual número?");
+            Console.WriteLine("Deseja qual número?");
             int resposta = int.Parse(Console.ReadLine());
 
-            int resultado;
-
-
-            do
-            {
-            for(int contador = 1; contador <=10; contador++)
+           for(int r = 0; r <=10; r++)
             { 
-                // Código a se repetir
-                resultado = resposta * contador;
-                Console.WriteLine($"{resposta} * {contador} = {resultado}");
-                System.Threading.Thread.Sleep(1000);
-            }
-            Console.WriteLine("Novo cálculo");
+                Console.WriteLine($"{resposta} * {r} = {resposta * r}");
+                // $ = Interpolação 
+                // r de resposta
+            } 
+            
 
-            }while(resposta != 10);
+           
             
            }
             
